@@ -1,0 +1,14 @@
+* {
+}
+
+#comment, #comment p {
+	margin-top: 0px;
+}
+
+.margin-top {
+	margin-top: 10px;
+}
+
+.labels {
+	font-weight: bold;
+}
